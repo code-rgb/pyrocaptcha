@@ -9,4 +9,4 @@ Release Date: March 25, 2019
 Emojis: 2776
 ```
 
-- Total Emojis with length == 1 (Removes Combined emojis):  **981**
+- Total Emojis with length == 1 (removes combined emojis):  **981**
